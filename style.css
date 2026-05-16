@@ -1,0 +1,112 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+nav a{
+    color:white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+main{
+    padding: 20px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    padding: 15px;
+    border: none;
+    font-size: 20px;
+}
+
+img{
+    width: 300px;
+    margin-left: 200px;
+}
+
+.p1{
+    margin-top: 50px;
+    font-size: 17px;
+}
+.b1{
+    margin-top: 0px;
+}
+
+.produkt{
+    display: flex;
+    gap: 20px;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.produkt img{
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img1{
+    margin-top: -30px;
+    margin-left: 0px;
+    position: relative;
+}
+
+.kino{
+    width: 300px;
+    margin-left: 700px;
+    margin-top: -300px;
+}
+
+.poster{
+    margin-top: -600px;
+    margin-left: 225px;
+}
+
+footer{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+
+footer a:hover{
+    color: red;
+}
+
+header a:hover{
+    color: red;
+}
+
+header a {
+    font-size: 18px;
+}
+
+.marke{
+    width: 150px;
+    height: auto;
+    margin-left: 1000px;
+    margin-top: -100px;
+}
