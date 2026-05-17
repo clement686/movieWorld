@@ -110,3 +110,9 @@ header a {
     margin-left: 1000px;
     margin-top: -100px;
 }
+
+.projekt-hinweis{
+    background-color: #eeeeee;
+    padding: 10px;
+    border-left: 4px solid red;
+}
